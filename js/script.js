@@ -318,7 +318,6 @@ if (window.location.pathname.includes('checkout.html')) {
     }
   });
 }
-
 // Tampilkan detail produk di halaman pesanan-berhasil.html
 document.addEventListener('DOMContentLoaded', function() {
   if (window.location.pathname.includes('pesanan-berhasil.html')) {
